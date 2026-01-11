@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
-  Isim Soyisim:  <<Elif Altaş>>
-  Ogrenci Numarasi:  <<2420161078>>
-  BTK Akademi Sertifika Baglantisi:  <<>>
+  Isim Soyisim:  Elif Altaş
+  Ogrenci Numarasi:  2420161078
+  BTK Akademi Sertifika Baglantisi:  https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
 */
 
 // Bubble Sort (Baloncuk / Kabarcik)
