@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-// İsim SOYİSİM: Elif Altaş
-// Ögrenci Numarası: 2420161078
-// BTK Akademi Sertifika Baglantısı: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
+// İsim SOYİSİM:  Elif Altaş
+// Ögrenci Numarası:  2420161078
+// BTK Akademi Sertifika Baglantısı:  https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
 
 
 // Bubble Sort (Baloncuk / Kabarcik) 
