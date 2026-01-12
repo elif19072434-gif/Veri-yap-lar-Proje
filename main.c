@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*
-  Isim Soyisim:  Elif Altaş
-  Ogrenci Numarasi:  2420161078
-  BTK Akademi Sertifika Baglantisi:  https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
-*/
+// İsim SOYİSİM: Elif Altaş
+// Ögrenci Numarası: 2420161078
+// BTK Akademi Sertifika Baglantısı: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
+
 
 // Bubble Sort (Baloncuk / Kabarcik)
 void bubbleSort(int dizi[], int n) {
