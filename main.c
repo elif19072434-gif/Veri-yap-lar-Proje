@@ -5,7 +5,7 @@
 // BTK Akademi Sertifika Baglantısı: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hGAEM2w
 
 
-// Bubble Sort (Baloncuk / Kabarcik)
+// Bubble Sort (Baloncuk / Kabarcik) 
 void bubbleSort(int dizi[], int n) {
     int i, j, temp;
 
